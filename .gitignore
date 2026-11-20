@@ -1,0 +1,25 @@
+# ---------- File sampah sistem ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------- Editor / IDE ----------
+.vscode/
+.idea/
+*.swp
+*~
+
+# ---------- Vercel (dibuat otomatis saat memakai Vercel CLI) ----------
+.vercel/
+
+# ---------- Rahasia & konfigurasi lokal ----------
+.env
+.env.*
+
+# ---------- Node (jika suatu saat memakai npm) ----------
+node_modules/
+npm-debug.log*
+
+# ---------- Cadangan & arsip ----------
+*.bak
+*.zip
